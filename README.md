@@ -37,3 +37,22 @@ practical exercises. Most of the time, you will only need to **Grab (hold
 'trigger' and 'grip' simultaneously)**, but when necessary, you will need to 
 **Interact (press 'B' or 'Y' button)** with the fire extinguisher to release the 
 extinguishing agent.
+
+## BibTeX
+
+Feel free to cite our work if you find it useful:
+
+```bibtex
+@article{ding2025augmented,
+  title={Augmented Reality for Enhancing Educational Experience in Laboratory Safety Training},
+  author={Ding, Saizhe and Lu, Tong and Lv, Xin and Zhang, Yuxin and Deng, Rong and Huang, Xinyan},
+  journal={Journal of Loss Prevention in the Process Industries},
+  pages={105848},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
+## Acknowledgments
+
+We would like to thank [Jianlin Li](mailto:airl@mail.ustc.edu.cn) for his valuable insights and support in this project.
